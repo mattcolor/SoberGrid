@@ -2,8 +2,8 @@
 //  LeftVC.h
 //  SoberGrid
 //
-//  Created by Binty Shah on 9/2/14.
-//  Copyright (c) 2014 Agile Infoways Pvt. Ltd. All rights reserved.
+//  Created by Matthew James on 9/2/14.
+//  Copyright (c) 2014 Accucode Inc. All rights reserved.
 //
 
 #import "ProfileVC.h"

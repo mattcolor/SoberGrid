@@ -2,8 +2,8 @@
 //  main.m
 //  SoberGrid
 //
-//  Created by Binty Shah on 8/28/14.
-//  Copyright (c) 2014 Agile Infoways Pvt. Ltd. All rights reserved.
+//  Created by Matthew James on 8/28/14.
+//  Copyright (c) 2014 Accucode Inc. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
